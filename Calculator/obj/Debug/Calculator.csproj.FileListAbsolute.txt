@@ -9,3 +9,11 @@ C:\Users\franc\source\repos\Calculator\obj\Debug\Calculator.csproj.GenerateResou
 C:\Users\franc\source\repos\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\franc\source\repos\Calculator\obj\Debug\Calculator.exe
 C:\Users\franc\source\repos\Calculator\obj\Debug\Calculator.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\Calculator-C_sharp\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\Calculator-C_sharp\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\Calculator-C_sharp\obj\Debug\Calculator.exe
+C:\Users\franc\OneDrive\Documentos\GitHub\Calculator-C_sharp\obj\Debug\Calculator.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\Calculator-C_sharp\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\Calculator-C_sharp\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\Calculator-C_sharp\Calculator\obj\Debug\Calculator.exe
+C:\Users\franc\OneDrive\Documentos\GitHub\Calculator-C_sharp\Calculator\obj\Debug\Calculator.pdb
